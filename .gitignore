@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv/
+
+# Adatbázis
+*.db
+*.sqlite
+*.sqlite3
+database/data/
+
+# Docker
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Grafana
+grafana_data/
+
+# Mosquitto
+mosquitto/data/
+mosquitto/log/
